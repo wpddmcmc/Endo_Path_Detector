@@ -1,0 +1,3 @@
+/home/tgeek/Projects/KCL/Endoscopic video/build/CMakeFiles/rebuild_cache.dir
+/home/tgeek/Projects/KCL/Endoscopic video/build/CMakeFiles/endoscopic_video.dir
+/home/tgeek/Projects/KCL/Endoscopic video/build/CMakeFiles/edit_cache.dir

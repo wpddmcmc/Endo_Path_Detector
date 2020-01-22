@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<opencv_storage>
+
+<!-->Configration<-->
+<camera>1</camera>              <!-->0-video 1-camera<-->
+<video_path>S-shape-forward.MP4</video_path>               <!-->video_path<-->
+
+</opencv_storage>
